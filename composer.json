@@ -1,6 +1,7 @@
 {
     "name": "mochaka/laravel-importio",
-    "description": "",
+    "description": "Simple interface to http://import.io for Laravel",
+    "keywords": ["laravel", "importio","scraping", "guzzle"],
     "authors": [
         {
             "name": "Aaron Florey",
